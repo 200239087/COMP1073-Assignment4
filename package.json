@@ -1,0 +1,21 @@
+{
+  "name": "comp1073-w2017-assignment4",
+  "version": "1.0.0",
+  "description": "JS app for Banner Animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CreateJS",
+    "TypeScript"
+  ],
+  "author": "200239087",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/easeljs": "^0.8.36",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^0.6.27"
+  }
+}

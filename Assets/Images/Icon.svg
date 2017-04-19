@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 960" style="enable-background:new 0 0 960 960;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9A94B;}
+	.st1{fill:#CCCCCC;}
+	.st2{fill:#1A1A1A;}
+	.st3{fill:#B96E16;}
+	.st4{fill:#F7931E;}
+</style>
+<g id="Envelope">
+	<g id="Top_Fold">
+		<polygon class="st0" points="480,280 330,380 480,480 630,380 		"/>
+	</g>
+	<g id="Letter">
+		<path id="Page" class="st1" d="M575,569H385c-5.5,0-10-4.5-10-10V307c0-5.5,4.5-10,10-10h190c5.5,0,10,4.5,10,10v252
+			C585,564.5,580.5,569,575,569z"/>
+		<path id="Words_1" class="st2" d="M561,326H399c-2.8,0-5-2.2-5-5l0,0c0-2.8,2.2-5,5-5h162c2.8,0,5,2.2,5,5l0,0
+			C566,323.8,563.8,326,561,326z"/>
+		<path id="Words_2" class="st2" d="M493,353h-94c-2.8,0-5-2.2-5-5l0,0c0-2.8,2.2-5,5-5h94c2.8,0,5,2.2,5,5l0,0
+			C498,350.8,495.8,353,493,353z"/>
+		<path id="Words_3" class="st2" d="M561,398H399c-2.8,0-5-2.2-5-5l0,0c0-2.8,2.2-5,5-5h162c2.8,0,5,2.2,5,5l0,0
+			C566,395.8,563.8,398,561,398z"/>
+		<path id="Words_4" class="st2" d="M561,443H399c-2.8,0-5-2.2-5-5l0,0c0-2.8,2.2-5,5-5h162c2.8,0,5,2.2,5,5l0,0
+			C566,440.8,563.8,443,561,443z"/>
+		<path id="Words_5" class="st2" d="M493,421h-94c-2.8,0-5-2.2-5-5l0,0c0-2.8,2.2-5,5-5h94c2.8,0,5,2.2,5,5l0,0
+			C498,418.8,495.8,421,493,421z"/>
+	</g>
+	<g id="Right_Fold">
+		<path class="st3" d="M630,380v175c0,7.7-3.4,14.5-8.9,19.1L480,480L630,380z"/>
+	</g>
+	<path id="Left_Fold" class="st4" d="M621.1,574.1c-4.4,3.7-10,5.9-16.1,5.9H355c-6.2,0-11.8-2.2-16.1-5.9
+		c-5.4-4.6-8.9-11.4-8.9-19.1V380l150,100L621.1,574.1z"/>
+</g>
+</svg>
